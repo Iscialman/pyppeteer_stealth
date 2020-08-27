@@ -1,6 +1,3 @@
-# pyppeteer-stealth
-
-Transplanted from [puppeteer-extra-plugin-stealth](https://github.com/berstend/puppeteer-extra/tree/master/packages/puppeteer-extra-plugin-stealth), **Not perfect**.
 
 ## Install
 
